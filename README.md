@@ -30,7 +30,7 @@ Without the option `precision: 8` the compiling doesn't work. You'll just get th
 
 ## Directory structure
 
-``
+```
 ├── app/
 │   ├── assets/
 │   ├── js/
@@ -39,9 +39,9 @@ Without the option `precision: 8` the compiling doesn't work. You'll just get th
 │           ├── _config.scss
 │       ├── _variables.scss
 │   ├── index.scss
-``
+```
 
-### sssets
+### assets
 Everything here gets copied exactly as it is to public. Put .html files here.
 
 ### scss
