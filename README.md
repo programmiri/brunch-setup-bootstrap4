@@ -50,7 +50,7 @@ In `_variables.scss` I define custom variables which aren't provided in Bootstra
 #### bootstrap
 
 `config.scss`
-Bootstrap can be used very graduated. I use `import` in `config.scss` to only the modules of Bootstrap  I like to use instead of the whole bunch.
+Bootstrap can be used very modular. I use `import` in `config.scss` to only the modules of Bootstrap  I like to use instead of the whole bunch.
 
 ## Javascript
 Bootstrap 4 comes with custom jQuery plugins which comes in handy. They're imported in index.js.
