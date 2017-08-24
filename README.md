@@ -1,5 +1,5 @@
-# Brunch with Bootstrap 4  in my favored SCSS setup ^*)^
-^*)^ for small to medium projects
+# Brunch with Bootstrap 4  in my favored SCSS setup <sup>*)</sup>
+<sup>*)</sup> for small to medium projects
 
 ## First things first
 This repository is an example for my Brunch.io setup with Bootstrap 4. I used the [Modern JS](https://github.com/brunch/with-es6) skeleton as boilerplate to start. I‘m using a specific setup and structure for my Bootstrap and SCSS in this repo. It's my currently favored setup for small to medium projects.
