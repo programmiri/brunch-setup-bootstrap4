@@ -1,0 +1,18 @@
+// Example for overwriting and extending bootstrap components
+
+.btn {
+  $button-border-width: 2px;
+
+  border-width: $button-border-width;
+
+  &.btn-dark {
+    background-color: $black;
+    border-color: $black;
+    color: $white;
+
+    &:hover {
+      background-color: $white;
+      color: $black;
+    }
+  }
+}

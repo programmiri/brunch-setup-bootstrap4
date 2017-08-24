@@ -1,6 +1,9 @@
 // Import Bootstrap config first
 @import './scss/bootstrap/config';
 
+// Import all Bootstrap_ext here
+@import './scss/bootstrap_ext/button';
+
 // here go's the rest
 @import './scss/brunch-start-style';
 
