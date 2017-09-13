@@ -6,7 +6,7 @@ This repository is an example for my Brunch.io setup with Bootstrap 4. I used th
 
 This repository serves as an example for my two articles I wrote:
 * [Setting up Brunch with Bootstrap 4](https://medium.com/@programmiri/setting-up-brunch-with-bootstrap-4-ca052e513e4)
-* [My favored SCSS setup with Bootstrap 4](no link yet)
+* [My favored SCSS setup with Bootstrap 4](https://medium.com/@programmiri/my-favored-scss-setup-with-bootstrap-4-547e9ea290f8)
 
 
 ## Installation
