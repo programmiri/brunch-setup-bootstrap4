@@ -1,33 +1,30 @@
 // READ MORE
 // https://github.com/twbs/bootstrap
-// https://v4-alpha.getbootstrap.com
+// https://get.getbootstrap.com
 
 @import "pre_default";
 
 // Core variables and mixins
-// state in July 2017
+// state in March 2018
 
 
-// @import "custom";
+// *** Core with grid
+@import "functions";
 @import "variables";
 @import "mixins";
-
-
-// @import "print";
-
-// Core CSS
-
+@import "root";
 @import "reboot";
 @import "type";
 @import "images";
 @import "code";
 @import "grid";
-@import "tables";
-@import "forms";
+
+// *** Standards
+// @import "tables";
+// @import "forms";
 @import "buttons";
 
-// Components
-
+// *** Components
 // @import "transitions";
 // @import "dropdown";
 // @import "button-group";
@@ -44,16 +41,31 @@
 // @import "progress";
 // @import "media";
 // @import "list-group";
-// @import "responsive-embed";
 // @import "close";
 
-// Components w/ JavaScript
-
+// *** Components w/ JavaScript
 // @import "modal";
 // @import "tooltip";
 // @import "popover";
 // @import "carousel";
 
-// Utility classes
-
+// *** Utility classes
 // @import "utilities";
+
+// *** Print classes
+@import "print";
+
+
+// *** READ MORE
+// https://github.com/twbs/bootstrap
+// Based on Bootstrap v4.0.0
+
+@import "pre_default";
+
+
+
+
+
+
+
+

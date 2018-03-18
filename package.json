@@ -9,14 +9,17 @@
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "auto-reload-brunch": "^2",
     "babel-brunch": "~6.0",
     "babel-preset-latest": "^6",
-    "bootstrap": "4.0.0-alpha.6",
+    "bootstrap": "^4.0.0",
     "brunch": "^2",
     "clean-css-brunch": "^2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.1",
     "sass-brunch": "^2.10.4",
     "uglify-js-brunch": "^2"
   }
